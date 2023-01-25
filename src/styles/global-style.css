@@ -1,0 +1,15 @@
+code {
+    font-size: 1.0rem;
+} 
+
+html, body {
+    background-color: beige;
+    color: rgb(98, 164, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+btn {
+    padding: 15x;
+}
